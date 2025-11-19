@@ -30,7 +30,8 @@ Now I focus heavily on **backend development** — building APIs, servers, and s
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
+  <img width="304" height="166" alt="image" src="https://github.com/user-attachments/assets/da0e4733-aada-484d-8aa1-bf19c4c6b4e1" />
+
 </div>
 
 ## 🛠️ Tech Stack
