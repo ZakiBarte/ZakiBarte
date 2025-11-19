@@ -4,22 +4,40 @@
 <img align="right" alt="coding anime" width="380" src="https://i.imgur.com/Dr9XG6h.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ZakiBarte&label=Profile%20Views&color=1f6feb&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=ZakiBarte&label=Profile%20Views&color=1f6feb&style=flat" />
 </p>
 
+<!-- =======================
+      🌑 ANIME TERMINAL BANNER
+     ======================= -->
+<div align="center">
+  <img src="https://i.imgur.com/1JbmO0O.gif" width="650" alt="anime-terminal-banner">
+</div>
+
 ---
+
+<!-- =======================
+      🔥 HACKER NEON DIVIDER
+     ======================= -->
+<div align="center">
+  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
+</div>
 
 ## 🧠 About Me  
-I started my tech journey at **Tisqaad College**, beginning with basic computer skills. Later, I studied **IT Tech**, where I learned **HTML, CSS, SQL, and C#**.
+I started my tech journey at **Tisqaad College**, beginning with basic computer skills. Later, I studied **IT Tech**, learning **HTML, CSS, SQL, and C#**.
 
-My curiosity pushed me further:
+Then I continued leveling up:
 
-- Completed **3 months of Ethical Hacking** at *Telesom Academy*  
-- Joined **Arday-Kaab Academy** and trained as a **JavaScript Full-Stack Developer**
+- Finished **3-month Ethical Hacking** program at *Telesom Academy*  
+- Completed **Full-Stack JavaScript** training at *Arday-Kaab Academy*  
 
-Right now, I’m fully focused on becoming a **backend developer**, mastering server-side logic, APIs, databases, and scalable systems.
+Now I focus heavily on **backend development** — building APIs, servers, and scalable logic.
 
 ---
+
+<div align="center">
+  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -42,11 +60,19 @@ Right now, I’m fully focused on becoming a **backend developer**, mastering se
 
 ---
 
+<div align="center">
+  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
+</div>
+
 ## 🚀 Projects  
-I’m currently a student building my foundations.  
-More projects coming soon…
+Still a student — building my base.  
+Projects coming soon…
 
 ---
+
+<div align="center">
+  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
+</div>
 
 ## 📊 GitHub Stats  
 <div align="center">
@@ -57,8 +83,13 @@ More projects coming soon…
 
 ---
 
+## 🌱 Dark Green Contribution Graph  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" />
+</div>
+
+---
+
 ## 📬 Contact Me  
 **Email:** _add here_  
 **LinkedIn:** _add here_  
-
----
