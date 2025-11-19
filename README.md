@@ -49,10 +49,11 @@ Now I focus heavily on **backend development** — building APIs, servers, and s
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 
 ### **Tools**
+<div flex gap-4 > 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-
+</div>
 ---
 
 <div align="center">
