@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ZakiBarte</h1>
-<h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, joining hackathons, and exploring the world to grow and connect.</h3>
+<h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, and like joining hackathons.</h3>
 
 
 
