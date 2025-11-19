@@ -16,12 +16,6 @@
 
 ---
 
-<!-- =======================
-      🔥 HACKER NEON DIVIDER
-     ======================= -->
-<div align="center">
-  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
-</div>
 
 ## 🧠 About Me  
 I started my tech journey at **Tisqaad College**, beginning with basic computer skills. Later, I studied **IT Tech**, learning **HTML, CSS, SQL, and C#**.
