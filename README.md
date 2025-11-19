@@ -11,7 +11,7 @@
       🌑 ANIME TERMINAL BANNER
      ======================= -->
 <div align="center">
-  <img src="https://i.imgur.com/1JbmO0O.gif" width="650" alt="anime-terminal-banner">
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" alt="anime-terminal-banner"/>
 </div>
 
 ---
