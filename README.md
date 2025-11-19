@@ -79,5 +79,5 @@ Projects coming soon…
 ---
 
 ## 📬 Contact Me  
-**Email:** <a href="zakibarte1@gmail.com"/>  
+**Email:** _zakibarte1@gmail.com_
 **LinkedIn:** _add here_  
