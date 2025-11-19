@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZakiBarte</h1>
 <h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, joining hackathons, and exploring the world to grow and connect.</h3>
 
-<img align="right" alt="coding anime" width="380" src="<img width="360" height="478" alt="image" src="https://github.com/user-attachments/assets/884edbdc-0342-4734-b103-cb8f9fdf44cb" />
+<img align="right" alt="coding anime" width="380" src="<img width="360" height="458" alt="image" src="https://github.com/user-attachments/assets/884edbdc-0342-4734-b103-cb8f9fdf44cb" />
 " />
 
 <p align="left">
