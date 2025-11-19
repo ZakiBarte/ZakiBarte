@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZakiBarte</h1>
 <h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, joining hackathons, and exploring the world to grow and connect.</h3>
 
-<img width="460" height="428" alt="image" src="https://github.com/user-attachments/assets/884edbdc-0342-4734-b103-cb8f9fdf44cb" />
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZakiBarte&label=Profile%20Views&color=1f6feb&style=flat" />
