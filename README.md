@@ -54,9 +54,6 @@ Now I focus heavily on **backend development** — building APIs, servers, and s
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
-</div>
 
 ## 🚀 Projects  
 Still a student — building my base.  
@@ -64,9 +61,6 @@ Projects coming soon…
 
 ---
 
-<div align="center">
-  <img src="https://i.imgur.com/rQ2G4Ej.png" width="700">
-</div>
 
 ## 📊 GitHub Stats  
 <div align="center">
