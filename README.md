@@ -36,6 +36,7 @@ Now I focus heavily on **backend development** — building APIs, servers, and s
 ## 🛠️ Tech Stack
 
 ### **Languages & Frameworks**
+<div flex >
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">  
@@ -43,7 +44,7 @@ Now I focus heavily on **backend development** — building APIs, servers, and s
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white">  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">  
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white">
-
+</div>
 ### **Database**
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 
