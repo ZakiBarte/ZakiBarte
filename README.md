@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ZakiBarte</h1>
 <h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, joining hackathons, and exploring the world to grow and connect.</h3>
 
-<img align="right" alt="coding anime" width="380" src="https://i.imgur.com/Dr9XG6h.gif" />
+<img align="right" alt="coding anime" width="380" src="<img width="360" height="478" alt="image" src="https://github.com/user-attachments/assets/884edbdc-0342-4734-b103-cb8f9fdf44cb" />
+" />
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZakiBarte&label=Profile%20Views&color=1f6feb&style=flat" />
