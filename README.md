@@ -1,82 +1,80 @@
-<h1 align="center">Hi 👋, I'm ZakiBarte</h1>
-<h3 align="center">Full-stack dev focused on learning new tools, taking on challenges, and like joining hackathons.</h3>
 
+<div id="header" align="center">
+<h1>Hey there, ZakiBarte this side! <img src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" width="35px" alt="GIF"></h1>
+</div>
 
+<br>
 
+<div> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" /> </div>
+<br>
 
+### 💫 About Me
 
-<!-- =======================
-      🌑 ANIME TERMINAL BANNER
-     ======================= -->
+- 💼 Full-stack JavaScript Developer
+- 🔭 Currently and daily learning new tools
+- 🌱 Learning continuously: advanced JS backends
+- 👯 Looking to collaborate with open source enthusiasts
+- 🥅 2026 Goals: Strengthen backend skills, build full-stack projects, and learn DSA
+
+<br>
+
+## 🌐 Socials
+
 <div align="center">
-<img width="300" height="168" src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" alt="anime-terminal-banner"/>
+<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:zakibarte1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
----
+<br>
 
-## 🧠 About Me  
+## 💻 Tech Stack
 
-I started my tech journey at **Tisqaad College**, beginning with basic computer skills. Later, I studied **IT Tech**, learning **HTML, CSS, SQL, and C#**.
-
-Then I continued leveling up:
-
-- Finished **3-month Ethical Hacking** program at *Telesom Academy*  
-- Completed **Full-Stack JavaScript** training at *Arday-Kaab Academy*  
-
-Now I focus heavily on **backend development** — building APIs, servers, and scalable logic.
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages & Frameworks**
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/>
-</div>
-
-### **Database**
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-
-### **Tools**
-<div>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-</div>
-
----
-
-
-## 🚀 Projects  
-Still a student — building my base.  
-Projects coming soon…
-
----
-
-
-## 📊 GitHub Stats  
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiBarte&layout=compact&theme=tokyonight&hide_border=false" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiBarte&theme=tokyonight" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,git,vscode&perline=11" />
 </div>
 
----
+<br>
 
-## 🌱 Dark Green Contribution Graph  
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiBarte&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakiBarte&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakiBarte&theme=radical">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&theme=radical&hide_border=false&show_icons=true">
+<!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiBarte&theme=radical"> -->
+</div>
+
+<br>
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Coming Soon… | Building full-stack projects with React, Node.js/Express, and MongoDB | — |
+
+<br>
+
+## 🌱 Contribution Graph
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800" />
 </div>
 
----
+<br>
 
-## 📬 Contact Me  
-**Email:** _zakibarte1@gmail.com_
+<p align="center">
+  <b>Thanks for stopping by! If you like my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
+<hr>
+
 
