@@ -81,4 +81,4 @@ Projects coming soon…
 
 ## 📬 Contact Me  
 **Email:** _zakibarte1@gmail.com_
-**LinkedIn:** _add here_  
+
