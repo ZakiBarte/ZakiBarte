@@ -3,7 +3,7 @@
 <h1>Hey there, ZakiBarte this side! <img src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" width="35px" alt="GIF"></h1>
 </div>
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Asymtode1&color=blue" alt="Total Github views" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ZakiBarte1&color=blue" alt="Total Github views" />
 <br>
 
 <div> <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" /> </div>
@@ -45,7 +45,7 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&theme=radical&hide_border=false&show_icons=true">
-<!-- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiBarte&theme=radical"> -->
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiBarte&theme=radical">
 </div>
 
 <br>
