@@ -45,7 +45,6 @@
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&theme=radical&hide_border=false&show_icons=true">
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiBarte&theme=radical">
 </div>
 
 <br>
