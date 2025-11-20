@@ -3,9 +3,7 @@
 
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ZakiBarte&label=Profile%20Views&color=1f6feb&style=flat" />
-</p>
+
 
 <!-- =======================
       🌑 ANIME TERMINAL BANNER
