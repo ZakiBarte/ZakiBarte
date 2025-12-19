@@ -22,7 +22,6 @@
 ## 🌐 Socials
 
 <div align="center">
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/" target="https://x.com/Askarrmaxamuud?t=1fb1roql1fi4jNnzf875bg&s=08"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:zakibarte1@gmail.com" target="mailto:zakibarte1@gmail.com_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
@@ -64,15 +63,7 @@
 
 <br>
 
-<p align="center">
-  <b>Thanks for stopping by! If you like my work, consider buying me a coffee. 😊</b>
-</p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
 
 <hr>
 
