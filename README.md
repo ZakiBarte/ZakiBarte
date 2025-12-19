@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<h1>Hey there, ZakiBarte this side! <img src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" width="35px" alt="GIF"></h1>
+<h1>Hey there, I am ZakiBarte .... <img src="https://github.com/user-attachments/assets/cfe058a7-1881-494b-851d-08e982d71015" width="35px" alt="GIF"></h1>
 </div>
 <br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ZakiBarte1&color=blue" alt="Total Github views" />
