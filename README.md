@@ -34,16 +34,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,express,mongodb,git,vscode&perline=11" />
 </div>
 
-<br>
+<br> 
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZakiBarte&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZakiBarte&theme=radical">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&theme=radical&hide_border=false&show_icons=true">
-</div>
+</div> -->
 
 <!-- <br>
 
