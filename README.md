@@ -15,7 +15,7 @@
 - 🔭 Currently and daily learning new tools
 - 🌱 Learning continuously: advanced JS backends
 - 👯 Looking to collaborate with open source enthusiasts
-- 🥅 2026 Goals: Strengthen backend skills, build full-stack projects, and learn DSA
+- 🥅 2026 Goals: Strengthen backend skills, and build full-stack projects.
 
 <br>
 
@@ -45,7 +45,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZakiBarte&theme=radical&hide_border=false&show_icons=true">
 </div>
 
-<br>
+<!-- <br>
 
 ## 🚀 Projects
 
@@ -53,7 +53,7 @@
 |---------|-------------|------|
 | Coming Soon… | Building full-stack projects with React, Node.js/Express, and MongoDB | — |
 
-<br>
+<br> -->
 
 ## 🌱 Contribution Graph
 
